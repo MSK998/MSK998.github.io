@@ -1,0 +1,1 @@
+import{o,c as r,F as t,b as e}from"./app.326e1c4f.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const c={},n=e("h1",{id:"hello",tabindex:"-1"},"hello",-1),s=e("p",null,"my name is mark.",-1);function l(_,m){return o(),r(t,null,[n,s],64)}var i=a(c,[["render",l]]);export{i as default};
