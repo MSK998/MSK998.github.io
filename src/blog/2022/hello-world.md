@@ -32,3 +32,7 @@ Database wise I feel that I am pretty handy with SQL - I have worked with severa
 
 Professionally, I'm a .NET developer, right now I work on mainly legacy code with the likes of ASP.NET WebForms as the framework. I also work with a touch of MVC here and there too. 
 
+I hope that this blog will help you build a project, or answer a question that you might have when building something.
+
+
+
