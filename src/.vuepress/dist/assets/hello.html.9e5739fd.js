@@ -1,0 +1,1 @@
+const e={key:"v-02225fbb",path:"/blog/hello.html",title:"Hello",lang:"en",frontmatter:{title:"Hello",description:"Hello this is a description",date:"2021/01/08"},excerpt:"",headers:[]};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-ca1f855a",path:"/blog/2022/bonjour.html",title:"Bonjour",lang:"en",frontmatter:{title:"Bonjour",description:"Hello this is a description",date:"2021/01/08"},excerpt:"",headers:[]};export{t as data};
