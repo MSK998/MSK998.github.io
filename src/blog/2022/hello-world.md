@@ -8,9 +8,9 @@ headerImage: /images/me.jpg
 
 # Whats this for?
 
-The aim of this was really to just share what I learn in the realm of technology within my personal and professional career. I try to undertake personal projects and I plan on using this blog to provide context for the projects that I create as well as provide/remind myself of how to achieve certain outcomes from code. 
+The aim of this was really to just share what I learn in the realm of technology within my personal and professional career. I try to undertake personal projects and I plan on using this blog to provide context for the projects that I create as well as provide context and remind myself of how to achieve certain outcomes from code. 
 
-Professionally, I may write about some interesting tech that I am getting involved with. However, these kinds of posts will probably be more vague, as im not trying to get myself in hot water with anyone.
+Professionally, I may write about some interesting tech that I am getting involved with.
 
 # Who am I?
 

@@ -24,8 +24,12 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 #back-to-blog {
   font-size: 0.75rem;
+}
+
+#app {
+  grid-template-rows: 0.05fr 1fr 0.125fr !important;
 }
 </style>
