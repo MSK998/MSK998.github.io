@@ -1,1 +1,0 @@
-const t={key:"v-77245ac0",path:"/blog/banana.html",title:"Index",lang:"en",frontmatter:{title:"Index",description:"Hello this is a description",date:"2021-01-07"},excerpt:"",headers:[]};export{t as data};
