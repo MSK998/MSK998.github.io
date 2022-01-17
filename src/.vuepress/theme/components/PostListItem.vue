@@ -42,6 +42,7 @@ a {
 
 .img {
   overflow: hidden;
+  align-content: center;
 }
 
 img {
