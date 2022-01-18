@@ -110,3 +110,11 @@ I think that VuePress is a nice blend of simplicity and extensibility. By no mea
 The important thing that I had to keep in mind was, at it's core, its just a VueJS site with some extra bells and whistles to make it easier to make content driven websites, like mine!
 
 If you have any comments or suggestions reach out! 
+
+# References
+
+The references that I remembered to write down...
+
+- https://v2.vuepress.vuejs.org
+- https://forestry.io/blog/an-introduction-to-theming-in-vuepress/
+- https://willwillems.com/posts/write-a-custom-theme-with-vuepress.html
