@@ -86,6 +86,17 @@ img {
     height: auto;
 }
 
+.blog img {
+    object-fit: scale-down;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.blog .content a {
+    text-decoration: underline;
+}
+
 .content {
     margin: 1rem;
 }
@@ -115,6 +126,15 @@ pre {
     padding: 1rem;
     background-color: #555;
     border-radius: 0.3rem;
+    white-space: pre-wrap;
+    /* css-3 */
+    white-space: -moz-pre-wrap;
+    /* Mozilla, since 1999 */
+    white-space: -pre-wrap;
+    /* Opera 4-6 */
+    white-space: -o-pre-wrap;
+    /* Opera 7 */
+    word-wrap: break-word;
 }
 
 @media (max-width: 1680px) {
