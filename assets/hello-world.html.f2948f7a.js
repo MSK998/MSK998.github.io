@@ -1,0 +1,1 @@
+const e={key:"v-7a7cbf42",path:"/blog/2022/hello-world.html",title:"Hello World!",lang:"en",frontmatter:{title:"Hello World!",date:"2022/01/14",description:"The first of hopefully many more blogs, and a little bit about myself",lang:"en",headerImage:"/images/me.jpg"},excerpt:"",headers:[]};export{e as data};

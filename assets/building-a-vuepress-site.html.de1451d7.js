@@ -1,0 +1,1 @@
+const e={key:"v-2386642a",path:"/blog/2022/building-a-vuepress-site.html",title:"Building a Custom VuePess Site",lang:"en",frontmatter:{title:"Building a Custom VuePess Site",date:"2022/01/21",description:"An overview of how I built my site, and how to avoid the pitfalls.",lang:"en",headerImage:"/images/vuepress-hero.jpeg"},excerpt:"",headers:[]};export{e as data};
