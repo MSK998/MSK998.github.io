@@ -13,15 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       uses: actions/checkout@v3
-        with:
+      with:
           fetch-depth: 0
       uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-          cache: 'npm'
+      with:
+        node-version: '16'
+        cache: 'npm'
 
       - name: 'Setup Pages'
-        using: actions/configue-pages@v3
+        uses: actions/configue-pages@v3
       
       - name: 'Build project'
         run: 'npm run build'
