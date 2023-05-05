@@ -30,6 +30,6 @@ export default {
 }
 
 #app {
-  grid-template-rows: 0.05fr 1fr 0.125fr !important;
+  grid-template-rows: 0.05fr 1fr 0.01fr !important;
 }
 </style>

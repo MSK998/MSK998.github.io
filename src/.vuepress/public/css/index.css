@@ -9,23 +9,26 @@ html {
     font-size: 18pt;
     font-family: Heebo, sans-serif;
     color: #fff;
-    min-height: 100%;
+    background-image: linear-gradient(45deg, #e1fffd 0, #ffe8e1 81%);
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: max-content;
 }
 
-body {
+/* body {
     background-image: linear-gradient(45deg, #e1fffd 0, #ffe8e1 81%);
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: auto;
     height: 100%;
-
-}
+} */
 
 #app {
     /* GRID */
     display: grid;
     grid-template-columns: 1fr 5fr 1fr;
-    grid-template-rows: 0.125fr 1fr 0.125fr;
+    grid-template-rows: 0.05fr 1fr 0.05fr;
     grid-gap: 1rem;
     grid-template-areas:
         ". . ."
@@ -168,7 +171,7 @@ pre {
         /* GRID */
         display: grid;
         grid-template-columns: 1fr 5fr 1fr;
-        grid-template-rows: 0.05fr 1fr 0.125fr;
+        grid-template-rows: 0.05fr 1fr 0.05fr;
         grid-gap: 1rem;
         grid-template-areas:
             ". . ."
@@ -218,7 +221,7 @@ pre {
     #app {
         display: grid;
         grid-template-columns: 5fr;
-        grid-template-rows: 0.05fr 1fr 0.125fr;
+        grid-template-rows: 0.05fr 1fr 0.05fr;
         gap: 1rem;
         grid-template-areas:
             ". . ."
